@@ -9,7 +9,7 @@
 
 **Rotas:**
 - **/find** - Retorna os dados de todos usuários cadastrados
-- **/find/:id** - Retorna os dados de um usuário
+- **/find/:userId** - Retorna os dados de um usuário
 - **/create** - Cria um usuário
-- **/update/:id** - Atualiza os dados de um usuário
-- **/delete/:id** - Deleta um usuário
+- **/update/:userId** - Atualiza os dados de um usuário
+- **/delete/:userId** - Deleta um usuário

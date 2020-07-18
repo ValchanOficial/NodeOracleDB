@@ -22,7 +22,7 @@
     "oracledb": "^4.0.1"
   },
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "nodemon": "^1.19.3"
   }
 }

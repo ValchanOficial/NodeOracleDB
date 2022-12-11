@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ValchanOficial/NodeOracleDB#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "oracledb": "^4.0.1"
   },
   "devDependencies": {
